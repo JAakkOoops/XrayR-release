@@ -7,7 +7,7 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "http://colacloud.online"
+      ApiHost: "https://colacloud.online"
       ApiKey: ""
       NodeID: 
       NodeType: Trojan # Node type: V2ray, Shadowsocks, Trojan
