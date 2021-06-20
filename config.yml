@@ -11,7 +11,7 @@ Nodes:
       ApiKey: ""
       NodeID: 
       NodeType: Trojan # Node type: V2ray, Shadowsocks, Trojan
-      Timeout: 100 # Timeout for the api request
+      Timeout: 150 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
       EnableXTLS: false # Enable XTLS for V2ray and Trojan
       SpeedLimit: 100 # Local settings will replace remote settings, 0 means disable
